@@ -151,14 +151,23 @@ motto: "Keep coding, keep thinking, keep growing."
 
 ## <img src="https://img.shields.io/badge/-GitHub%20Stats-58a6ff?style=flat-square" height="21" /> 数据统计
 
+<!--
+  如果以下卡片加载不出来，是因为公共 Vercel 实例被限流。
+  彻底解决方案：Fork 对应仓库并部署到自己的 Vercel 账号，替换下方域名即可。
+  - Stats & Langs: https://github.com/anuraghazra/github-readme-stats
+  - Streak: https://github.com/DenverCoder1/github-readme-streak-stats
+  - Trophy: https://github.com/ryo-ma/github-profile-trophy
+  - Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+-->
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
 
 </div>
 
@@ -167,7 +176,7 @@ motto: "Keep coding, keep thinking, keep growing."
 ## <img src="https://img.shields.io/badge/-Trophies-ffd93d?style=flat-square" height="21" /> 成就
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dijkstra402&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy-rust.vercel.app/?username=dijkstra402&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
 ---
@@ -175,7 +184,7 @@ motto: "Keep coding, keep thinking, keep growing."
 ## <img src="https://img.shields.io/badge/-Activity-ff6b6b?style=flat-square" height="21" /> 贡献活动
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dijkstra402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
+<img src="https://github-readme-activity-graph-psi-two.vercel.app/graph?username=dijkstra402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
 </div>
 
 ---
