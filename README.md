@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=dijkstra402&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Coder%20%7C%20Student%20%7C%20Problem%20Solver&descSize=18&descAlignY=52" width="100%" />
 
 <!-- 打字动画 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Keep+coding%2C+keep+thinking%2C+keep+growing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%BE%93%E5%87%BA%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF;Life+is+a+coding%2C+I+will+debug+it." alt="Typing SVG" />
 
 <br/>
 
@@ -16,9 +16,13 @@
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════ 关于我 ═══════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-About%20Me-58a6ff?style=flat-square" height="21" /> 关于我
+
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8" width="300" />
 
 ```yaml
 name: dijkstra402
@@ -37,7 +41,11 @@ motto: "Life is a coding, I will debug it."
 - <img src="https://img.shields.io/badge/-成长-FF6B6B?style=flat-square&logoColor=white" height="18" /> 持续学习，持续输出，持续成长
 - <img src="https://img.shields.io/badge/-探索-ffd93d?style=flat-square&logoColor=black" height="18" /> 正在不断探索更广阔的技术世界
 
+<br clear="both"/>
+
 ---
+
+<!-- ═══════════════════════════════════ 作品展示 ═══════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-Projects-ff6b6b?style=flat-square" height="21" /> 作品展示
 
@@ -92,7 +100,7 @@ motto: "Life is a coding, I will debug it."
 <td width="33%" align="center">
 
 <a href="https://code.emoera.cn/">
-<img src="https://img.shields.io/badge/E时代云剪切板-跨设备同步-6bcb77?style=for-the-badge&logo=clipboard&logoColor=white" alt="E时代云剪切板" />
+<img src="https://img.shields.io/badge/E时代云剪切板-跨设备同步-6bcb77?style=for-the-badge&logo=icloud&logoColor=white" alt="E时代云剪切板" />
 </a>
 
 <br/><br/>
@@ -117,37 +125,103 @@ motto: "Life is a coding, I will debug it."
 
 ---
 
+<!-- ═══════════════════════════════════ 技术栈 ═══════════════════════════════════ -->
+
 ## <img src="https://img.shields.io/badge/-Tech%20Stack-6bcb77?style=flat-square" height="21" /> 技术栈
 
 <div align="center">
 
-**语言**
+<table>
+<tr>
+<td align="center" width="140"><strong>语言</strong></td>
+<td>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=amazondocumentdb&logoColor=white)
 
-**前端**
+</td>
+</tr>
+<tr>
+<td align="center"><strong>前端</strong></td>
+<td>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&logo=element&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**后端 & 数据库**
+</td>
+</tr>
+<tr>
+<td align="center"><strong>后端</strong></td>
+<td>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square&logo=mybatis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**工具 & 平台**
+</td>
+</tr>
+<tr>
+<td align="center"><strong>数据库 & 缓存</strong></td>
+<td>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>AI & 数据</strong></td>
+<td>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>DevOps & 工具</strong></td>
+<td>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════ 数据统计 ═══════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-GitHub%20Stats-58a6ff?style=flat-square" height="21" /> 数据统计
 
@@ -164,10 +238,6 @@ motto: "Life is a coding, I will debug it."
 
 <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
 
 </div>
 
@@ -189,6 +259,8 @@ motto: "Life is a coding, I will debug it."
 
 ---
 
+<!-- ═══════════════════════════════════ 近期目标 ═══════════════════════════════════ -->
+
 ## <img src="https://img.shields.io/badge/-Goals-6bcb77?style=flat-square" height="21" /> 近期目标
 
 <div align="center">
@@ -203,6 +275,8 @@ motto: "Life is a coding, I will debug it."
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════ 联系我 ═══════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-Contact-181717?style=flat-square" height="21" /> 联系我
 
@@ -222,9 +296,11 @@ motto: "Life is a coding, I will debug it."
 
 <div align="center">
 
-**座右铭**
+<br/>
 
-> *"Life is a coding, I will debug it."*
+```
+待到苦尽甘来日，定是少年挺腰时。
+```
 
 <br/>
 
