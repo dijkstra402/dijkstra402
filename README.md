@@ -249,12 +249,16 @@ motto: "Life is a coding, I will debug it."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
-<br/>
+<!--
+  GitHub Stats 和 Top Langs 卡片因 github-readme-stats 公共实例限流已移除。
+  如需恢复，Fork https://github.com/anuraghazra/github-readme-stats 部署到自己的 Vercel，
+  然后取消以下注释并替换域名：
 
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8" />
+  <img width="49%" src="https://你的域名.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="40%" src="https://你的域名.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+-->
 
 </div>
 
