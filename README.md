@@ -29,7 +29,7 @@ interests:
   - 全栈开发
   - 开源项目
   - AI 应用实践
-motto: "Keep coding, keep thinking, keep growing."
+motto: "Life is a coding, I will debug it."
 ```
 
 - <img src="https://img.shields.io/badge/-学生-6DB33F?style=flat-square&logoColor=white" height="18" /> 一名热爱技术与编程的开发者
@@ -184,7 +184,7 @@ motto: "Keep coding, keep thinking, keep growing."
 ## <img src="https://img.shields.io/badge/-Activity-ff6b6b?style=flat-square" height="21" /> 贡献活动
 
 <div align="center">
-<img src="https://github-readme-activity-graph-psi-two.vercel.app/graph?username=dijkstra402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dijkstra402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
 </div>
 
 ---
@@ -224,7 +224,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 **座右铭**
 
-> *"Keep coding, keep thinking, keep growing."*
+> *"Life is a coding, I will debug it."*
 
 <br/>
 
