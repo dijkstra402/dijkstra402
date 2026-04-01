@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 关于我
+## <img src="https://img.shields.io/badge/-About%20Me-58a6ff?style=flat-square" height="21" /> 关于我
 
 ```yaml
 name: dijkstra402
@@ -32,26 +32,26 @@ interests:
 motto: "Keep coding, keep thinking, keep growing."
 ```
 
-- 🎓 一名热爱技术与编程的开发者
-- 💻 对算法、开发工具、项目实践和开源充满兴趣
-- 🚀 持续学习，持续输出，持续成长
-- 🌱 正在不断探索更广阔的技术世界
+- <img src="https://img.shields.io/badge/-学生-6DB33F?style=flat-square&logoColor=white" height="18" /> 一名热爱技术与编程的开发者
+- <img src="https://img.shields.io/badge/-兴趣-007396?style=flat-square&logoColor=white" height="18" /> 对算法、开发工具、项目实践和开源充满兴趣
+- <img src="https://img.shields.io/badge/-成长-FF6B6B?style=flat-square&logoColor=white" height="18" /> 持续学习，持续输出，持续成长
+- <img src="https://img.shields.io/badge/-探索-ffd93d?style=flat-square&logoColor=black" height="18" /> 正在不断探索更广阔的技术世界
 
 ---
 
-## 🚀 作品展示
+## <img src="https://img.shields.io/badge/-Projects-ff6b6b?style=flat-square" height="21" /> 作品展示
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 <a href="https://image.emoera.cn/">
-<img src="https://img.shields.io/badge/E时代图床-图片托管服务-ff6b6b?style=for-the-badge&logo=image&logoColor=white" alt="E时代图床" />
+<img src="https://img.shields.io/badge/E时代图床-图片托管服务-ff6b6b?style=for-the-badge&logo=cloudinary&logoColor=white" alt="E时代图床" />
 </a>
 
 <br/><br/>
 
-**🖼️ E时代图床**
+**<img src="https://img.shields.io/badge/-Image-ff6b6b?style=flat-square&logo=cloudinary&logoColor=white" height="16" /> E时代图床**
 
 功能丰富的图片托管平台，支持拖拽上传、WebP 压缩、水印添加、阅后即焚等特性，提供 RESTful API 接口
 
@@ -62,7 +62,7 @@ motto: "Keep coding, keep thinking, keep growing."
 <br/>
 
 <a href="https://image.emoera.cn/">
-<img src="https://img.shields.io/badge/🔗_访问-image.emoera.cn-58a6ff?style=flat-square" />
+<img src="https://img.shields.io/badge/访问-image.emoera.cn-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -74,7 +74,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 <br/><br/>
 
-**🧠 E时代RAG知识库**
+**<img src="https://img.shields.io/badge/-AI-ffd93d?style=flat-square&logo=openai&logoColor=black" height="16" /> E时代RAG知识库**
 
 基于 RAG（检索增强生成）技术的智能知识库平台，融合信息检索与 AI 生成，实现精准知识问答
 
@@ -85,7 +85,7 @@ motto: "Keep coding, keep thinking, keep growing."
 <br/>
 
 <a href="https://rag.emoera.cn/">
-<img src="https://img.shields.io/badge/🔗_访问-rag.emoera.cn-58a6ff?style=flat-square" />
+<img src="https://img.shields.io/badge/访问-rag.emoera.cn-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -97,7 +97,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 <br/><br/>
 
-**📋 E时代云剪切板**
+**<img src="https://img.shields.io/badge/-Sync-6bcb77?style=flat-square&logo=icloud&logoColor=white" height="16" /> E时代云剪切板**
 
 跨设备云端剪切板同步服务，玻璃拟态风格 UI 设计，支持多终端间无缝传递文本与内容
 
@@ -108,7 +108,7 @@ motto: "Keep coding, keep thinking, keep growing."
 <br/>
 
 <a href="https://code.emoera.cn/">
-<img src="https://img.shields.io/badge/🔗_访问-code.emoera.cn-58a6ff?style=flat-square" />
+<img src="https://img.shields.io/badge/访问-code.emoera.cn-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -117,7 +117,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 ---
 
-## 🛠️ 技术栈
+## <img src="https://img.shields.io/badge/-Tech%20Stack-6bcb77?style=flat-square" height="21" /> 技术栈
 
 <div align="center">
 
@@ -149,7 +149,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 ---
 
-## 📊 GitHub 数据统计
+## <img src="https://img.shields.io/badge/-GitHub%20Stats-58a6ff?style=flat-square" height="21" /> 数据统计
 
 <div align="center">
 
@@ -164,7 +164,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 ---
 
-## 🏆 GitHub 成就
+## <img src="https://img.shields.io/badge/-Trophies-ffd93d?style=flat-square" height="21" /> 成就
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dijkstra402&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
@@ -172,7 +172,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 ---
 
-## 📈 贡献活动
+## <img src="https://img.shields.io/badge/-Activity-ff6b6b?style=flat-square" height="21" /> 贡献活动
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dijkstra402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
@@ -180,34 +180,22 @@ motto: "Keep coding, keep thinking, keep growing."
 
 ---
 
-## 🐍 贡献蛇形图
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dijkstra402/dijkstra402/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dijkstra402/dijkstra402/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dijkstra402/dijkstra402/output/github-snake-dark.svg" />
-</picture>
-</div>
-
----
-
-## 📌 近期目标
+## <img src="https://img.shields.io/badge/-Goals-6bcb77?style=flat-square" height="21" /> 近期目标
 
 <div align="center">
 
 | 目标 | 状态 |
 |:---:|:---:|
-| 🧮 刷算法题，提升思维能力 | 🔄 进行中 |
-| 🏗️ 学习并实践更多项目开发经验 | 🔄 进行中 |
-| 🌐 参与开源，积累真实项目能力 | 🔄 进行中 |
-| 📁 持续完善技术主页与作品集 | ✅ 持续更新 |
+| <img src="https://img.shields.io/badge/-算法-00599C?style=flat-square" height="16" /> 刷算法题，提升思维能力 | ![进行中](https://img.shields.io/badge/进行中-58a6ff?style=flat-square) |
+| <img src="https://img.shields.io/badge/-实践-6DB33F?style=flat-square" height="16" /> 学习并实践更多项目开发经验 | ![进行中](https://img.shields.io/badge/进行中-58a6ff?style=flat-square) |
+| <img src="https://img.shields.io/badge/-开源-FF6B6B?style=flat-square" height="16" /> 参与开源，积累真实项目能力 | ![进行中](https://img.shields.io/badge/进行中-58a6ff?style=flat-square) |
+| <img src="https://img.shields.io/badge/-主页-ffd93d?style=flat-square&logoColor=black" height="16" /> 持续完善技术主页与作品集 | ![持续更新](https://img.shields.io/badge/持续更新-6bcb77?style=flat-square) |
 
 </div>
 
 ---
 
-## 📫 联系我
+## <img src="https://img.shields.io/badge/-Contact-181717?style=flat-square" height="21" /> 联系我
 
 <div align="center">
 
@@ -216,7 +204,7 @@ motto: "Keep coding, keep thinking, keep growing."
 </a>
 &nbsp;
 <a href="https://image.emoera.cn/">
-<img src="https://img.shields.io/badge/E时代-emoera.cn-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/E时代-emoera.cn-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -225,7 +213,7 @@ motto: "Keep coding, keep thinking, keep growing."
 
 <div align="center">
 
-**💬 座右铭**
+**座右铭**
 
 > *"Keep coding, keep thinking, keep growing."*
 
