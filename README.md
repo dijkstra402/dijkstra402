@@ -22,8 +22,6 @@
 
 ## <img src="https://img.shields.io/badge/-About%20Me-58a6ff?style=flat-square" height="21" /> 关于我
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8" width="300" />
-
 ```yaml
 name: dijkstra402
 role: Developer & Student
@@ -41,7 +39,22 @@ motto: "Life is a coding, I will debug it."
 - <img src="https://img.shields.io/badge/-成长-FF6B6B?style=flat-square&logoColor=white" height="18" /> 持续学习，持续输出，持续成长
 - <img src="https://img.shields.io/badge/-探索-ffd93d?style=flat-square&logoColor=black" height="18" /> 正在不断探索更广阔的技术世界
 
-<br clear="both"/>
+---
+
+<!-- ═══════════════════════════════════ 编码时间线 ═══════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Timeline-9B59B6?style=flat-square" height="21" /> 编码时间线
+
+```
+2024  mass ──────────────────────────────────────────────────────── 2026 now
+  │                                                                  │
+  ├─ C / C++ 入门，算法启蒙                                           │
+  ├─ Java + Spring Boot 后端开发                                      │
+  ├─ Vue.js + Element Plus 前端实践                                   │
+  ├─ Docker + Linux 运维部署                                          │
+  ├─ AI 应用探索：RAG / LLM / LangChain                              │
+  └─ 独立项目上线：图床 · RAG知识库 · 云剪切板 ────────────────────── now
+```
 
 ---
 
@@ -239,6 +252,10 @@ motto: "Life is a coding, I will debug it."
 <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
+<br/>
+
+<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8" />
+
 </div>
 
 ---
@@ -255,6 +272,16 @@ motto: "Life is a coding, I will debug it."
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dijkstra402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════ 随机名言 ═══════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Dev%20Quote-9B59B6?style=flat-square" height="21" /> 随机开发者名言
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
@@ -294,12 +321,24 @@ motto: "Life is a coding, I will debug it."
 
 ---
 
+<!-- ═══════════════════════════════════ 底部签名 ═══════════════════════════════════ -->
+
 <div align="center">
 
 <br/>
 
-```
-待到苦尽甘来日，定是少年挺腰时。
+```java
+public class Dijkstra402 {
+    public static void main(String[] args) {
+        while (�true) {
+            �learn();
+            build();
+            �debug();
+            grow();
+        }
+        // 待到苦尽甘来日，定是少年挺腰时。
+    }
+}
 ```
 
 <br/>
