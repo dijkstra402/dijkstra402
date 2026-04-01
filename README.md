@@ -22,11 +22,14 @@
 ## 📊 GitHub 数据统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dijkstra402&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/dijkstra402?style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/dijkstra402?style=for-the-badge&logo=github" alt="GitHub Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Profile-dijkstra402-blueviolet?style=for-the-badge&logo=github" alt="Profile" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Open%20Source-orange?style=for-the-badge" alt="Focus" />
 </p>
 
 ---
