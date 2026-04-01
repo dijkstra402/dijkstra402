@@ -41,6 +41,8 @@ motto: "Life is a coding, I will debug it."
 
 ---
 
+
+
 <!-- ═══════════════════════════════════ 作品展示 ═══════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-Projects-ff6b6b?style=flat-square" height="21" /> 作品展示
@@ -222,9 +224,11 @@ motto: "Life is a coding, I will debug it."
 ## <img src="https://img.shields.io/badge/-GitHub%20Stats-58a6ff?style=flat-square" height="21" /> 数据统计
 
 
+
 <div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
 
 
 </div>
@@ -282,6 +286,10 @@ motto: "Life is a coding, I will debug it."
 
 <a href="https://github.com/dijkstra402">
 <img src="https://img.shields.io/badge/GitHub-dijkstra402-181717?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<a href="mailto:admin@ideawit.com">
+<img src="https://img.shields.io/badge/Mail-admin@ideawit.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://image.emoera.cn/">
