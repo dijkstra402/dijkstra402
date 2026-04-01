@@ -41,23 +41,6 @@ motto: "Life is a coding, I will debug it."
 
 ---
 
-<!-- ═══════════════════════════════════ 编码时间线 ═══════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/-Timeline-9B59B6?style=flat-square" height="21" /> 编码时间线
-
-```
-2024  mass ──────────────────────────────────────────────────────── 2026 now
-  │                                                                  │
-  ├─ C / C++ 入门，算法启蒙                                           │
-  ├─ Java + Spring Boot 后端开发                                      │
-  ├─ Vue.js + Element Plus 前端实践                                   │
-  ├─ Docker + Linux 运维部署                                          │
-  ├─ AI 应用探索：RAG / LLM / LangChain                              │
-  └─ 独立项目上线：图床 · RAG知识库 · 云剪切板 ────────────────────── now
-```
-
----
-
 <!-- ═══════════════════════════════════ 作品展示 ═══════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-Projects-ff6b6b?style=flat-square" height="21" /> 作品展示
@@ -238,27 +221,11 @@ motto: "Life is a coding, I will debug it."
 
 ## <img src="https://img.shields.io/badge/-GitHub%20Stats-58a6ff?style=flat-square" height="21" /> 数据统计
 
-<!--
-  如果以下卡片加载不出来，是因为公共 Vercel 实例被限流。
-  彻底解决方案：Fork 对应仓库并部署到自己的 Vercel 账号，替换下方域名即可。
-  - Stats & Langs: https://github.com/anuraghazra/github-readme-stats
-  - Streak: https://github.com/DenverCoder1/github-readme-streak-stats
-  - Trophy: https://github.com/ryo-ma/github-profile-trophy
-  - Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
--->
 
 <div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com/?user=dijkstra402&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
-<!--
-  GitHub Stats 和 Top Langs 卡片因 github-readme-stats 公共实例限流已移除。
-  如需恢复，Fork https://github.com/anuraghazra/github-readme-stats 部署到自己的 Vercel，
-  然后取消以下注释并替换域名：
-
-  <img width="49%" src="https://你的域名.vercel.app/api?username=dijkstra402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="40%" src="https://你的域名.vercel.app/api/top-langs/?username=dijkstra402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
--->
 
 </div>
 
@@ -282,7 +249,7 @@ motto: "Life is a coding, I will debug it."
 
 <!-- ═══════════════════════════════════ 随机名言 ═══════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Dev%20Quote-9B59B6?style=flat-square" height="21" /> 随机开发者名言
+## <img src="https://img.shields.io/badge/-Dev%20Quote-9B59B6?style=flat-square" height="21" /> 开发者名言
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -334,10 +301,10 @@ motto: "Life is a coding, I will debug it."
 ```java
 public class Dijkstra402 {
     public static void main(String[] args) {
-        while (�true) {
-            �learn();
+        while (true) {
+            learn();
             build();
-            �debug();
+            debug();
             grow();
         }
         // 待到苦尽甘来日，定是少年挺腰时。
